@@ -1,0 +1,7 @@
+{
+  "name": "Math Mentor AI",
+  "description": "An intelligent math tutor that reviews photos of your solutions, offering hints first and detailed corrections if needed.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
